@@ -1,0 +1,12 @@
+.countries-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
+
+.head-part {
+  background-color: goldenrod;
+  border: 9px double rgba(0, 255, 128, 0.712);
+  width: 500px;
+  margin: auto;
+}
