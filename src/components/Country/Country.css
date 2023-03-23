@@ -1,5 +1,13 @@
 .country {
+  /*height: 300px;*/
   margin: 20px;
   padding: 8px;
   background-color: coral;
+  border: 5px dotted blue;
+  border-radius: 10px;
+}
+
+.country #image {
+  width: 150px;
+  border-radius: 9px;
 }
